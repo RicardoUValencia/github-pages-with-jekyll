@@ -1,1 +1,4 @@
-Comming soonI will show my personalized blog :)!
+---
+title: "Bashing code"
+date: 2022-08-28
+---
